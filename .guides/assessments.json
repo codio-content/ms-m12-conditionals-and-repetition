@@ -1,0 +1,56 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-2305502734",
+  "source": {
+   "name": "Test One",
+   "showName": true,
+   "preExecuteCommand": "",
+   "command": "python3 .guides/content/Test1.py",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "Write a program that assigns 4 variables (g1,g2,g3,g4)  4 test grades.  Find the average of the tests and if it is greater than 66 percent then print out passing , else print out failing. \n\nFor this program use this data\n```\ng1 = 56\ng2 = 77\ng3 = 90\ng4 = 45\n```",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": false,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "passing"
+    }
+   ]
+  }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-3973620322",
+  "source": {
+   "name": "Test2",
+   "showName": false,
+   "preExecuteCommand": "",
+   "command": "python3 .guides/content/Test2.py",
+   "points": 5,
+   "oneTimeTest": false,
+   "instructions": "Write a program that determines how many bonus points a student received for the semester based on how many absences s/he has. \n- 0 absences is 10 points\n- 1 absence is 7 points\n- 2 absences is 5 points \n- 3 or more is 0 points.\n\nYou will just print out the points they receive.  For your test assign the variable you create to 2 absences. ",
+   "options": {
+    "ignoreCase": false,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": false,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "2",
+     "input": "",
+     "output": "5"
+    }
+   ]
+  }
+ }
+]

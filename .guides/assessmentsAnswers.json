@@ -1,0 +1,100 @@
+[
+ {
+  "taskId": "code-output-compare-2305502734",
+  "points": 0,
+  "results": [
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 1, \"stderr\": \"  File \\\".guides/content/Test1.py\\\", line 5\\n    if\\n     ^\\nSyntaxError: invalid syntax\\n\", \"passed\": false, \"stdout\": \"\"}]}",
+    "timestamp": 1484154251400
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1484054893071
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1484009576805
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1483485954148
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1483389788845
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1483388791628
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1483388730725
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1483388690641
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"passing\\n\"}]}",
+    "timestamp": 1483388651277
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"you can NOT get your license\\n\"}]}",
+    "timestamp": 1483387894878,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "code-output-compare-3973620322",
+  "points": 5,
+  "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"5\\n\"}]}",
+    "timestamp": 1483819213817
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"5\\n\"}]}",
+    "timestamp": 1483485808546
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"5\\n\"}]}",
+    "timestamp": 1483485681342
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"5\\n\"}]}",
+    "timestamp": 1483483089832
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"5\\n\"}]}",
+    "timestamp": 1483389794888
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"5\\n\"}]}",
+    "timestamp": 1483389699729
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 1, \"stderr\": \"  File \\\".guides/content/Test2.py\\\", line 4\\n    elif abs=2:\\n            ^\\nSyntaxError: invalid syntax\\n\", \"passed\": false, \"stdout\": \"\"}]}",
+    "timestamp": 1483389674034
+   }
+  ]
+ }
+]
